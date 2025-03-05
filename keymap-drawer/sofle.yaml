@@ -185,5 +185,3 @@ layers:
   - ''
   - ''
   - ''
-draw_config:
-  dark_mode: true
